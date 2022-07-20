@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(
+    180deg,
+    #d5fc53 5.73%,
+    #89eea2 25%,
+    #ccf7f3 42.19%,
+    #7fcbf1 58.33%,
+    #9e8afe 72.92%,
+    #fba5fc 91.15%
+  );
+  height: 100%;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+}
