@@ -1,6 +1,9 @@
-# quick-css                         With website for d3_plot
+# quick-css
 
 A completion of css code ideas for use
+
+
+
 
 Also will be boilerplates for varius effects and objects usefull to web design
 
