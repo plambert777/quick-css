@@ -1,6 +1,6 @@
 # quick-css
 
-A completion of css code ideas for use
+A completion of css code ideas and boilerplates
 
 
 
