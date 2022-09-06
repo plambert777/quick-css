@@ -2,8 +2,8 @@
 
 A completion of css code ideas and boilerplates
 
-
-
+##ColorTemplates
+Good starting points for website color palets
 
 Also will be boilerplates for varius effects and objects usefull to web design
 
