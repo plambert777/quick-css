@@ -11,3 +11,6 @@ boilerplates for varius effects and objects usefull to web design
 
 ### Website
 Coming up this directory will be hosting a webpage for a presentation I have coming up related to d3_plot
+
+### Folder d3_plot website
+Is the code for the d3plot website 
