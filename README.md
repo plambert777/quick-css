@@ -9,7 +9,7 @@ Good starting points for website color palets
 ### Effects
 boilerplates for varius effects and objects usefull to web design
 
-### Website
+### Website until 14th
 Coming up this directory will be hosting a webpage for a presentation I have coming up related to d3_plot
 
 ### Folder d3_plot website
